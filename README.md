@@ -44,7 +44,7 @@ I used github for versioning. For the versions available, see the [tags on this 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mohammed Sarfaraz** - *Initial work* - 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
