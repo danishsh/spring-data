@@ -1,4 +1,4 @@
-# Spring-rest-data Project
+# Spring Boot Application - JPA,RestFull Webservice, Spring MVC and TestNG
 
 This is a Spring Boot Application built to demonstrate the powerful feature of spring framework.It has JPA and Rest API along with TestNG
 
