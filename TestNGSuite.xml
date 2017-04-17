@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="SpringTestNGSuite" verbose="1" >
+  <test name="FunctionalTesting" >
+    <classes>
+       <class name="com.idm4j.boot.app.TestNGProfileAPI" />
+    </classes>
+  </test>
+</suite>
