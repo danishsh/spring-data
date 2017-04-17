@@ -28,7 +28,6 @@ Spring Boot - micro service with embedded tomcat
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Spring]- Spring Framework
 
